@@ -121,4 +121,3 @@ npm run deploy      # builds and pushes /dist to the gh-pages branch
 
 **Akash K**
 B.E. Computer Science (AI & ML)
-[GitHub](https://github.com/starky112) · [LinkedIn](www.linkedin.com/in/akash-k-58920b25b)
